@@ -1,5 +1,5 @@
 # MyRetailCaseStudy
-# myRetail RESTful service:**
+# myRetail RESTful service:
 RESTful service to retrieve product and update price details by Product ID
 
 # Technical Stack and IDE used:
